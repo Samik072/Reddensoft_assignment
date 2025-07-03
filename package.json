@@ -1,4 +1,11 @@
 {
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Email-verified signup/login app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "body-parser": "^2.2.0",
